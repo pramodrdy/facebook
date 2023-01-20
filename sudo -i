@@ -1,0 +1,29 @@
+[33mcommit a7644c9d9ffc2932744bc5161bad79f1a5a0660c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mkukatpally[m[33m)[m
+Author: root <root@ip-172-31-40-4.ap-south-1.compute.internal>
+Date:   Fri Jan 20 10:53:28 2023 +0000
+
+    added services file
+
+[33mcommit d3353a47443037ac3b3a86b67353b380428674ae[m
+Author: root <root@ip-172-31-40-4.ap-south-1.compute.internal>
+Date:   Thu Jan 19 14:23:21 2023 +0000
+
+    added contact page
+
+[33mcommit 42ecc37d36ee798334d5679f7f4b83631f634d79[m
+Author: root <root@ip-172-31-40-4.ap-south-1.compute.internal>
+Date:   Thu Jan 19 14:08:20 2023 +0000
+
+    changes done
+
+[33mcommit f081490749403304fcd0caccba125249aced72bf[m
+Author: pramodrdy <87800156+pramodrdy@users.noreply.github.com>
+Date:   Thu Jan 19 19:16:14 2023 +0530
+
+    Create Loginpage
+
+[33mcommit d513be2f9a228b4c8869d5fc6b34999482c247b0[m
+Author: pramodrdy <87800156+pramodrdy@users.noreply.github.com>
+Date:   Thu Jan 19 19:14:42 2023 +0530
+
+    Initial commit
